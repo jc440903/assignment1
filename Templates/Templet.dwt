@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Cossie Play</title>
+<!-- TemplateEndEditable -->
+<link href="../masterCss.css" rel="stylesheet" type="text/css" media="screen">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<div id="wrapper">
+
+<body>
+<div id="title">
+	<h1>Cossie Play</h1>
+</div>
+
+<div id="navigationBar">
+	<ul>
+		<li><a href="../index.html">Home</a></li>
+		<li><a href="../ourStories.html">Our Stories</a></li>
+		<li><a href="../announcement.html">Announcement</a></li>
+		<li><a href="../ourCostumes.html">Our Costumes</a></li>
+		<li><a href="../help.html">Help</a></li>
+  </ul>
+</div>
+
+
+<div id="content"><!-- TemplateBeginEditable name="content" -->
+ 
+ 
+  <h2>Home</h2>
+    <p1>content</p1>
+    
+  <!-- TemplateEndEditable -->  
+    
+</div>
+
+<div id="rightSide">
+	<h2>Recent Event</h2>
+  <p3>this month you can purchase 3 drinks for the price of 2 at the bar!</p3>
+	<img src="../images/party-1506740-640x480.jpg" width="400" height="200" alt=""/> </div>
+	
+<div id="footer">
+    <p>Contact:</p>
+    <p>our Phone is 07 4771 1234</p>
+    <p>fax: 07-4771 1235</p>
+    <p>address: 4 Stanton Avenue, Hulkstwon</p>
+    <p>cossieplay@ gmail.com.\</p>
+</div>
+</body>
+
+</div>
+
+</html>
